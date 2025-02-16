@@ -9,8 +9,8 @@ Um jogo interativo onde o jogador deve repetir uma sequência de cores gerada al
 
 -  Raspberry Pi Pico: Microcontrolador principal.
 -  Matriz de LEDs WS2818B (NeoPixel)**: Exibe as cores do jogo.
--  Botões (A e B)**: Entrada do jogador.
--  Buzzer**: Feedback sonoro.
+-  Botões (A e B): Entrada do jogador.
+-  Buzzer: Feedback sonoro.
 -----
 ## Estrutura de Dados
 
